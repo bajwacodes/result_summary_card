@@ -259,13 +259,17 @@ main{
     }
 
     .summary{
-        margin-top: 2.5rem;
+        margin-top: 2.3rem;
         font-size: 1.5rem;
     }
 
     .score-div{
         width: 200px;
         height: 200px;
+    }
+
+    .score{
+        font-weight: 900;
     }
 
     a{
@@ -277,8 +281,13 @@ main{
     }
 
     .result{
-        font-size: 1.2rem;
+        font-size: 1.4rem;
     }
+
+    .item-name{
+        font-weight: 900;
+    }
+
 
     /* main{
         display: grid;
